@@ -1,0 +1,92 @@
+.heading1{
+    font-family: cursive;
+    float: left;
+    margin-left: 84px;
+}
+.heading2{
+    font-family: cursive;
+    float: right;
+    margin-right:91px;
+}
+.container{
+    background-image: url(../images/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    height:200px;
+    font-display: block;
+    border-image:url("../images/border.png");
+    border-top:0;
+    border-left:0;
+    border-right:0;
+    border-bottom: 200px;
+}
+.jumbotron{
+    background-color:  rgba(0, 0, 0, 0.1);
+}
+.rounded-bottom {
+    border-bottom-right-radius: 2.25rem !important;
+    border-bottom-left-radius: 1.5rem !important;
+}
+.profileimg{
+    height:150px;
+    margin-left:50px;  
+    margin-top: -60px;
+}
+hr {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    border: 0;
+    border-top: 2px solid rgba(0, 0, 0, 0.5);
+    width:380px;
+}
+.image-size{
+    height:600px;
+    width:600px;
+    padding:30px;
+    margin-left:-26px;
+}
+.icon-footer{
+    height:100px;
+    margin-left:25px;
+    margin-top: -10px;
+}
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+    margin-left:65px;
+    border-radius: 50px
+  }
+  
+  .fa:hover {
+      opacity: 0.7;
+      text-decoration: none;
+      text-decoration-color: none !important;
+  }
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  .fa-skype {
+    background: #00aff0;
+    color: white;
+  }
